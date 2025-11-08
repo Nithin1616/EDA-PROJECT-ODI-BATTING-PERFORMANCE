@@ -1,4 +1,4 @@
-#  ODI Batsmen Performance Analysis – Exploratory Data Analysis (EDA)
+#  ODI Batting Performance Analysis – Exploratory Data Analysis (EDA)
 
 ## Project Overview
 This project focuses on conducting a comprehensive *Exploratory Data Analysis (EDA)* of **ODI (One Day International) batsmen performance data**.  
